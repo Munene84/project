@@ -7,7 +7,5 @@ The sscanf function would also be useful. It scans the str buffer to try to matc
 The fgets function reads n characters from stream and writes them to the str buffer. On success, the function returns the same str parameter. If the end-of-file is encountered, a null pointer is returned
 ## Technologies
 * C
-## Contact Me
-
 ## License and copyright information.
 Copyright (c) Edwin Munene Contributor. All rights reserved. See my [MIT License](https://blob/master/LICENSE.txt) for details.
