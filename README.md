@@ -8,6 +8,6 @@ The fgets function reads n characters from stream and writes them to the str buf
 ## Technologies
 * C
 ## Contact Me
-edwinmunene95@gmail.com
+
 ## License and copyright information.
-Copyright (c) Edwin Munene Contributor. All rights reserved. See my [MIT License](https://https://github.com/Munene84/project.git/blob/master/LICENSE.txt) for details.
+Copyright (c) Edwin Munene Contributor. All rights reserved. See my [MIT License](https://blob/master/LICENSE.txt) for details.
